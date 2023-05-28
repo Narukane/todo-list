@@ -22,7 +22,7 @@ This is a basic ToDo list app built using Node.js, Express.js, and MongoDB. It p
 1. Clone the repository.
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Narukane/todo-list.git
    
 2. Install the dependencies.
     ```shell
